@@ -7,5 +7,8 @@ See the JSON in action here: [https://raw.githubusercontent.com/theroyakash/news
 ### Python implementation
 ```python
 import requests
-result = requests.get('https://raw.githubusercontent.com/theroyakash/newsapis/main/news.json').json()
+
+url = 'https://raw.githubusercontent.com/theroyakash/newsapis/main/news.json'
+content = requests.get(url).json()
+print(f"Status: {content['status']}")
 ```
