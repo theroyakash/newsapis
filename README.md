@@ -4,5 +4,5 @@ Free news api for you to consume. Top News specific to India, API. Updates with 
 ## Python
 ```python
 import requests
-result = requests.get('https://raw.githubusercontent.com/theroyakash/newsapis/main/news.json').json()
+result = requests.get('https://theroyakash.github.io/newsapis/news.json').json()
 ```
