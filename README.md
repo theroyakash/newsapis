@@ -9,6 +9,8 @@ See the JSON in action here:
 [https://raw.githubusercontent.com/theroyakash/newsapis/main/india_news.json](https://raw.githubusercontent.com/theroyakash/newsapis/main/india_news.json)
 ### For US Headlines
 [https://raw.githubusercontent.com/theroyakash/newsapis/main/us_news.json](https://raw.githubusercontent.com/theroyakash/newsapis/main/us_news.json)
+### For UK Headlines
+[https://raw.githubusercontent.com/theroyakash/newsapis/main/us_news.json](https://raw.githubusercontent.com/theroyakash/newsapis/main/uk_news.json)
 
 ### Python implementation
 ```python
